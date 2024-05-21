@@ -1,6 +1,9 @@
-# EDA_HCAHPS_Survey
-This is an exploratory data analysis of a dataset from Kaggle related to sleep and health. I have tried to analyse how various health and lifestyle attributes relate to gender, occupation etc.
+# HCAHPS Patient Survey
 
-This link for the dataset is: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset.
+This project looks at the national & state-level scores for the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey, from 2013 to 2022.
+This is a national, standardized survey of hospital patients about their experiences during a recent inpatient hospital stay.
 
-About
+It looks at the types of measures that were assessed, what questions were asked, and how the results varied on a national and state level.
+
+The link to the dataset is: https://mavenanalytics.io/data-playground
+
